@@ -1,2 +1,4 @@
 # blackjack
-A blackJack game
+- A blackJack game
+- Learned from scrimba
+- The website 
